@@ -10,6 +10,11 @@ This repository serves as a technical portfolio for my automation architecture. 
 ### 1. [📊 Automated Sales Analysis & Reporting](./01-sales-data-reporting/)
 * **Stack:** n8n, Google Sheets, GPT-4, Slack.
 * **Core Value:** Transforms raw, messy sales data into AI-summarized reports with a human-in-the-loop approval system.
+* 🎥 Live Demo & Workflow Screenshots
+
+📂 Full Demo Folder (Loom Video + Workflow Screenshot):  
+👉 [View Here](https://drive.google.com/drive/folders/1aFH0duu2Av_dSMaoi4eBLNlLklDGbKpp?usp=drive_link)
+
 
 ### 2. [🚀 Startup Idea Evaluation System](./02-startup-idea-evaluator/)
 * **Stack:** Make.com, AI Agents, PDF Generation.
